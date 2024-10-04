@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "NXB Trẻ",
+        "image": "brand_img1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Nhã Nam",
+        "image": "brand_img2.webp"
+    },
+    {
+        "id": 3,
+        "name": "AZ Việt Nam",
+        "image": "brand_img3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Thái Hà Books",
+        "image": "brand_img4.webp"
+    },
+    {
+        "id": 5,
+        "name": "Sài Gòn Books",
+        "image": "brand_img5.webp"
+    }
+
+]

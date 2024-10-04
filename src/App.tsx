@@ -1,25 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { VinaBooksProvider} from './context/VinaBooksContext';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HomePage } from './components/page/HomePage';
+import { BookDetailPage } from './components/page/BookDetailPage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <VinaBooksProvider>
+        <Routes>
+          <Route path="/" element={<HomePage/>}/>
+          <Route path=':bookName' element={<BookDetailPage/>}/>
+        </Routes>
+    </VinaBooksProvider>
+    </BrowserRouter>
   );
 }
 

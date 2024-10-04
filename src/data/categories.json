@@ -1,0 +1,335 @@
+[
+    {
+        "id": 1,
+        "name": "Sách kinh tế",
+        "subCategories": [
+            {
+                "id": 11,
+                "name": "Ngoại Thương"
+            },
+            {
+                "id": 12,
+                "name": "Marketing - Bán Hàng"
+            },
+            {
+                "id": 13,
+                "name": "Nhân Sự & Việc Làm"
+            },
+            {
+                "id": 14,
+                "name": "Nhân Vât & Bài Học Kinh Doanh"
+            },
+            {
+                "id": 15,
+                "name": "Phân Tích & Môi Trường Kinh Tế"
+            },
+            {
+                "id": 16,
+                "name": "Quan Trị & Lãnh Đạo"
+            },
+            {
+                "id": 17,
+                "name": "Tài Chính & Tiền Tệ"
+            },
+            {
+                "id": 18,
+                "name": "Tài chính & Kế toán"
+            },
+            {
+                "id": 19,
+                "name": "Văn bản luật"
+            },
+            {
+                "id": 110,
+                "name": "Khởi nghiệp/Kỹ năng làm việc"
+            },
+            {
+                "id": 111,
+                "name": "Sách kinh tế"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sách văn học trong nước",
+        "subCategories":[
+            {
+                "id": 21,
+                "name": "Nhân vật văn học/Nhân vật lịch sử"
+            },
+            {
+                "id": 22,
+                "name": "Phê bình văn học"
+            },
+            {
+                "id": 23,
+                "name": "Phóng sự, Ký sự"
+            },
+            {
+                "id": 24,
+                "name": "Thơ ca"
+            },
+            {
+                "id": 25,
+                "name": "Tiểu thuyết"
+            },
+            {
+                "id": 26,
+                "name": "Tiểu thuyết lịch sử"
+            },
+            {
+                "id": 27,
+                "name":  "Truyện & Thơ ca dân gian"
+            },
+            {
+                "id": 28,
+                "name": "Truyện dài"
+            },
+            {
+                "id": 29,
+                "name": "Truyện giả tưởng - Thần bí"
+            },
+            {
+                "id": 210,
+                "name": "Truyện kiếm hiệp"
+            },
+            {
+                "id": 211,
+                "name": "Truyện ngắn - Tản văn"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sách văn học nước ngoài",
+        "subCategories": [
+            {
+                "id": 31,
+                "name": "Cổ tích & Thần thoại"
+            },
+            {
+                "id": 32,
+                "name": "Văn học"
+            },
+            {
+                "id": 33,
+                "name": "Phóng sự, Ký sự"
+            },
+            {
+                "id": 34,
+                "name": "Thơ ca"
+            },
+            {
+                "id": 35,
+                "name": "Tiểu thuyết"
+            },
+            {
+                "id": 36,
+                "name": "Tiểu thuyết lịch sử"
+            },
+            {
+                "id": 37,
+                "name":  "Truyện & Thơ ca dân gian"
+            },
+            {
+                "id": 38,
+                "name": "Truyện dài"
+            },
+            {
+                "id": 39,
+                "name": "Truyện giả tưởng - Thần bí"
+            },
+            {
+                "id": 310,
+                "name": "Truyện kiếm hiệp"
+            },
+            {
+                "id": 311,
+                "name": "Truyện ngắn - Tản văn"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sách thưởng thức đời sống",
+        "subCategories": [
+            {
+                "id": 41,
+                "name": "Bí quyết làm đẹp"
+            },
+            {
+                "id": 42,
+                "name": "Gia đình nuôi dạy con"
+            },
+            {
+                "id": 43,
+                "name": "Nhà ở, vật nuôi"
+            },
+            {
+                "id": 44,
+                "name": "Sách tâm lý - Giới tính"
+            },
+            {
+                "id": 45,
+                "name": "Nữ công gia chánh"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sách thiếu nhi",
+        "subCategories": [
+            {
+                "id": 51,
+                "name": "Khoa học tự nhiên"
+            },
+            {
+                "id": 52,
+                "name": "Khoa học xã hội"
+            },
+            {
+                "id": 53,
+                "name": "Mỹ thuật, Âm nhạc"
+            },
+            {
+                "id": 54,
+                "name": "Sách ngoại ngữ"
+            },
+            {
+                "id": 55,
+                "name": "Truyện tranh"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name": "Sách phát triển bản thân",
+        "subCategories": [
+            {
+                "id": 61,
+                "name": "Sách học làm người"
+            },
+            {
+                "id": 62,
+                "name": "Sách học làm người"
+            },
+            {
+                "id": 63,
+                "name": "Danh nhân"
+            },
+            {
+                "id": 64,
+                "name": "Tâm lý - Kỹ năng sống"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sách tin học ngoại ngữ",
+        "subCategories": [
+            {
+                "id": 71,
+                "name": "Sách ngoại ngữ"
+            },
+            {
+                "id": 72,
+                "name": "Từ điển"
+            },
+            {
+                "id": 73,
+                "name": "Tin học"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sách chuyên ngành",
+        "subCategories": [
+            {
+                "id": 81,
+                "name": "Âm nhạc"
+            },
+            {
+                "id": 82,
+                "name": "Chính trị, Triết học"
+            },
+            {
+                "id": 83,
+                "name": "Du lịch"
+            },
+            {
+                "id": 84,
+                "name": "Khoa học cơ bản"
+            },
+            {
+                "id": 85,
+                "name": "Khoa học kỹ thuật"
+            },
+            {
+                "id": 86,
+                "name": "Khoa học tự nhiên - xã hội"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Sách giáo khoa - giáo trình",
+        "subCategories":[
+            {
+                "id": 91,
+                "name":  "Cấp 1"
+            },
+            {
+                "id": 92,
+                "name":  "Cấp 2"
+            },
+            {
+                "id": 93,
+                "name": "Cấp 3"
+            },
+            {
+                "id": 94,
+                "name": "Sách tham khảo"
+            },
+            {
+                "id": 95,
+                "name": "Đại học"
+            },
+            {
+                "id": 96,
+                "name": "Bộ sách giáo khoa"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Sách mới phát hành",
+        "subCategories": [
+            {
+                "id": 101,
+                "name":  "Sách mới tháng 4/2024"
+            },
+            {
+                "id": 102,
+                "name":  "Sách mới tháng 5/2024"
+            },
+            {
+                "id": 103,
+                "name":"Sách mới tháng 6/2024"
+            },
+            {
+                "id": 104,
+                "name": "Sách mới tháng 7/2024"
+            },
+            {
+                "id": 105,
+                "name": "Sách mới tháng 8/2024"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Sách giảm giá 70%",
+        "subCategories": []
+    }
+]

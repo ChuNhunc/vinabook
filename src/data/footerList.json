@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "type": "text",
+        "title": "VỀ CÔNG TY",
+        "item": [
+            "Giới thiệu công ty",
+            "Tuyển dụng",
+            "Chương trình đại lý",
+            "Chính sách bảo mật",
+            "Chính sách đổi trả"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "text",
+        "title": "TRỢ GIÚP",
+        "item": [
+            "Quy định sử dụng",
+            "Hướng dẫn mua hàng",
+            "Phương thức thanh toán",
+            "Phương thức vận chuyển",
+            "Ứng dụng đọc ebook"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "text",
+        "title": "TIN TỨC SÁCH",
+        "item": [
+            "Tin tức",
+            "Chân dung",
+            "Điểm sách",
+            "Phê bình"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "image",
+        "title": "CHẤP NHẬN THANH TOÁN",
+        "item": [
+            "footer_logo_payment_1.webp",
+            "footer_logo_payment_2.webp",
+            "footer_logo_payment_3.webp",
+            "footer_logo_payment_4.webp",
+            "footer_logo_payment_5.webp",
+            "footer_logo_payment_6.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "type": "image",
+        "title": "THANH TOÁN AN TOÀN",
+        "item": [
+            "footer_logo_payment_7.webp",
+            "footer_logo_payment_8.webp",
+            "footer_logo_payment_9.webp"
+        ]
+    },
+    {
+        "id": 6,
+        "type": "image",
+        "title": "ĐỐI TÁC VẬN CHUYỂN",
+        "item": [
+            "footer_logo_shipment_1.webp",
+            "footer_logo_shipment_2.webp",
+            "footer_logo_shipment_3.webp"
+        ]
+    },
+    {
+        "id": 7,
+        "type": "image",
+        "title": "ĐỐI TÁC BÁN HÀNG",
+        "item": [
+            "footer_logo_seller_1.webp",
+            "footer_logo_seller_2.webp",
+            "footer_logo_seller_3.webp"
+        ]
+    }
+]
